@@ -1,2 +1,2 @@
-# quanjay-d.github.io
+# quanjay
 Personal GitHub Pages site for quanjay-d
